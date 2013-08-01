@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Audio Capture &amp; Effect</string>
+    <string name="action_settings">Settings</string>
+    <string name="rec">Record</string>
+    <string name="stop">Stop</string>
+    <string name="SR_text">Choose a Sample Rate:\n(for recording only)</string>
+    <string name="load">Load</string>
+    <string name="play">Play</string>
+    <string name="fft">Take FFT</string>
+
+</resources>
